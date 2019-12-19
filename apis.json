@@ -1,0 +1,57 @@
+{
+    "name": "Entireweb",
+    "description": "<p>Entireweb currently handles millions of searches every month, and is a trusted partner of internationally acclaimed search engines such as Exactseek  and IxQuick, who rely on Entireweb to provide world-class search results. <\/p>\n\n<p>Entireweb&#8217;s goal is to be a leading supplier of search technology solutions. The international Web search engine www.entireweb.com is a showcase of our search technology  and our expertise in the field of ultra-high-performance information retrieval from huge unstructured data sources. <\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/588_logo.png",
+    "tags": [
+        "api provider",
+        "have api",
+        "search"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/entireweb\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Entireweb",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/588_logo.png",
+            "humanURL": "http:\/\/www.entireweb.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/entireweb-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/entireweb-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.entireweb.com"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/entireweb"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/entireweb"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/entireweb"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.entireweb.com"
+        }
+    ]
+}
